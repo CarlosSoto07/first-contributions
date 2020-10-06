@@ -10,6 +10,7 @@
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
 - [David Lazaro Fernandez](https://github.com/David-Lazaro-Fernandez)
 - [Daniel Waldow 'WaldowTheDev'](https://github.com/waldowred5)
+- [Carlos Soto Serna](https://github.com/Carlossoto07)
 - [Maheysh V](https://github.com/Zualemo-xo)
 - [Shahid Dhariwala](https://github.com/shahiddhariwala)
 - [Rishabh Jain](https://github.com/rishabh-jain424)
